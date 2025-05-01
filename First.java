@@ -10,5 +10,3 @@ public class First {
         int n = 7;
         printOddNumbers(n);
     }
-}
-d
